@@ -1,0 +1,4 @@
+INDEX VERSION 1.4+D:\EDIX 2022\WorkSpace_jee\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+682119065.index
+2880666827.index
+1737096372.index
